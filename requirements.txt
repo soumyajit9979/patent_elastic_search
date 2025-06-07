@@ -1,0 +1,7 @@
+elasticsearch>=8.0.0
+sentence-transformers
+Pillow
+transformers
+torch
+dotenv
+python-dotenv
